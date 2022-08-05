@@ -1,7 +1,14 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder)](https://git.io/typing-svg)
-
+<h2 align="center"> About Me </h2>
+<p align="center">
+  <strong>
+  'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'
+  </strong>
+</p>
+<p align="center">
+  The perfectionist geek living in Metaverse has a deep obsession with cyberpunk things, web3 & beautiful user interface designs. You will find me Fluttering in the low-level deeper caves of Dart, hunting treasures of advanced programming concepts, because I love to code and hunt bugs.
+</p>
 <!--
 **mrumarrazzaq/mrumarrazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
