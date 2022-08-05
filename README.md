@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder)](https://git.io/typing-svg)
+
 <!--
 **mrumarrazzaq/mrumarrazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
