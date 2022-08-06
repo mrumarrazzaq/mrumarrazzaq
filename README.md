@@ -1,6 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg" rel="nofollow" style="user-select: auto;"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=32&amp;duration=2000&amp;color=FF58C4&amp;center=true&amp;width=500&amp;lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder" style="max-width: 100%; user-select: auto;"></a>
 </div>
+
 <div align="center">
   <a href="#" rel="nofollow" style="user-select: auto;">
   <img width="407.5px" height="132.5px" src="https://user-images.githubusercontent.com/98159141/183239790-83b286d0-3fff-4d3f-9a7a-5c7c0b123434.png" style="max-width: 100%; user-select: auto;">
