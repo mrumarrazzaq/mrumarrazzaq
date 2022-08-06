@@ -63,6 +63,15 @@
 <p align="center">
 Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content & writing articles on various platforms.
 </p>
+  
+ 
+<!--___________________________________________________________________________________________________________________________________________________________--> 
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/25074005dcd79d30dacef8c1fdb2599beb8956136d44a592577992094ca6cde7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72617368696477617373616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d6174657269616c2d70616c656e6967687426686964655f626f726465723d747275652662675f636f6c6f723d314632323245" style="user-select: auto;"><img width="400px" src="https://camo.githubusercontent.com/25074005dcd79d30dacef8c1fdb2599beb8956136d44a592577992094ca6cde7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72617368696477617373616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d6174657269616c2d70616c656e6967687426686964655f626f726465723d747275652662675f636f6c6f723d314632323245" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rashidwassan&amp;count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E" style="max-width: 100%; user-select: auto;"></a> 
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrumarrazzaq&count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" style="user-select: auto;"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" style="max-width: 100%; user-select: auto;"></a>
+  
 <!--___________________________________________________________________________________________________________________________________________________________-->
 <div align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a></div>
   
