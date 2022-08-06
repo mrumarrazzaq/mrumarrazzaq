@@ -32,6 +32,8 @@
   <a href="#" rel="nofollow" style="user-select: auto;">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" style="max-width: 100%; user-select: auto;">
 </a>
+  
+</div>
 <!--___________________________________________________________________________________________________________________________________________________________--> 
   
   
@@ -51,8 +53,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" style="user-select: auto;"><img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" style="max-width: 100%; user-select: auto;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" style="user-select: auto;"><img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" style="max-width: 100%; user-select: auto;"></a>
 </div> 
-
 <!--___________________________________________________________________ABOUT ME_______________________________________________________________________________-->
+<div align="center">
 <h2 align="center"> About Me </h2>
 <p align="center">
   'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'
@@ -63,14 +65,19 @@
 <p align="center">
 Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content & writing articles on various platforms.
 </p>
-  
+<p>If technology were a fire, I would jump right into it.</p>
+<p>There are very rare things that fascinate me a lot, like rebirth of a star and innovations in technology.</p>
+<p>I am the storehouse of bigger thoughts & huge optimism.</p>
+<p>On a journey to influence masses!</p>  
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" style="user-select: auto;"><img height="40" src="https://user-images.githubusercontent.com/60597290/152370900-69dce999-2e00-4227-9547-917fa1a4b06e.png" style="max-width: 100%; user-select: auto;"></a>
+  <hr style="user-select: auto;">
+ </div>
  
-<!--___________________________________________________________________________________________________________________________________________________________--> 
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/25074005dcd79d30dacef8c1fdb2599beb8956136d44a592577992094ca6cde7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72617368696477617373616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d6174657269616c2d70616c656e6967687426686964655f626f726465723d747275652662675f636f6c6f723d314632323245" style="user-select: auto;"><img width="400px" src="https://camo.githubusercontent.com/25074005dcd79d30dacef8c1fdb2599beb8956136d44a592577992094ca6cde7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d72617368696477617373616e26636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d6d6174657269616c2d70616c656e6967687426686964655f626f726465723d747275652662675f636f6c6f723d314632323245" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rashidwassan&amp;count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E" style="max-width: 100%; user-select: auto;"></a> 
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrumarrazzaq&count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E)](https://github.com/anuraghazra/github-readme-stats)
-  
+<!--_________________________________________________________________GITHUB STATUS_________________________________________________________________________--> 
+<p align="center" dir="auto" style="user-select: auto;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=mrumarrazzaq&count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E" style="user-select: auto;"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=mrumarrazzaq&count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mrumarrazzaqn&amp;count_private=true&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=1F222E" style="max-width: 100%; user-select: auto;"></a>
   <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" style="user-select: auto;"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=mrumarrazzaq&amp;theme=material-palenight&amp;hide_border=true&amp;fire=C77800&amp;ring=7C2AE8&amp;background=1F222E" style="max-width: 100%; user-select: auto;"></a>
+</p>
   
 <!--___________________________________________________________________________________________________________________________________________________________-->
 <div align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a></div>
@@ -101,7 +108,7 @@ Learning           3 hrs 15 mins       ██████░░░░     55.18%
 
 <!--___________________________________________________________________________________________________________________________________________________________--> 
 
-</div>
+
 <!--
 **mrumarrazzaq/mrumarrazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
