@@ -1,8 +1,44 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg" rel="nofollow" style="user-select: auto;"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F715C5&center=true&lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?size=32&amp;duration=2000&amp;color=FF58C4&amp;center=true&amp;width=500&amp;lines=I+am+Umar+Razzaq;Flutter+Developer;Software+Engineer;Digital+Creator;User+Interface+(UI);User+Experience+(UX);Tech+Evangelist;Community+Builder" style="max-width: 100%; user-select: auto;"></a>
+</div>
 
-
-<p dir="auto" style="user-select: auto;"><a href="http://www.rashidwassan.tech" rel="nofollow" style="user-select: auto;"><img src="https://camo.githubusercontent.com/9418783f9027b551ff00652e00ea59c4e8ad1686bc42c6264576f829ae0a081e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d72617368696477617373616e26636f6c6f723d626c756576696f6c6574266c6162656c3d50726f66696c652b5669657773" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=mrumarrazzaq&amp;color=blueviolet&amp;label=Profile+Views" style="max-width: 100%; user-select: auto;">
+<!--_______________________________________________________________LAUNCH GITHUB ICON____________________________________________________________________________-->
+<div align="center">
+<a href="#" rel="nofollow" style="user-select: auto;">
+  <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg" style="max-width: 100%; user-select: auto;">
+</a>
+<!--_______________________________________________________________PROFILE VIEWS______________________________________________________________________________-->
+<p dir="auto" style="user-select: auto;" align="center"><a href="#" rel="nofollow" style="user-select: auto;"><img src="https://komarev.com/ghpvc/?username=mrumarrazzaq&amp;color=blueviolet&amp;label=Profile+Views" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=mrumarrazzaq&amp;color=blueviolet&amp;label=Profile+Views" style="max-width: 100%; user-select: auto;">
 </a></p>
+ <!--___________________________________________________________________SOCIAL MEDIA ICONS_____________________________________________________________________-->
+<a href="#" rel="nofollow" style="user-select: auto;">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" style="max-width: 100%; user-select: auto;">
+</a>
+<a href="#" rel="nofollow" style="user-select: auto;">
+  <img height="60" alt="RashidWassan | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
+</a>
+  <a href="#" rel="nofollow" style="user-select: auto;">
+  <img height="60" alt="RashidWassan | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
+</a>
+  <a href="#" rel="nofollow" style="user-select: auto;">
+  <img height="60" alt="Rashid Wassan | Instagram" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" style="max-width: 100%; user-select: auto;">
+</a>
+  <a href="#" rel="nofollow" style="user-select: auto;">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" style="max-width: 100%; user-select: auto;">
+</a>
+  <a href="#" rel="nofollow" style="user-select: auto;">
+  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" style="max-width: 100%; user-select: auto;">
+</a>
+  <a href="#" rel="nofollow" style="user-select: auto;">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" style="max-width: 100%; user-select: auto;">
+</a>
+<!--___________________________________________________________________________________________________________________________________________________________--> 
+  
+  
+  
+  
+  
+  
 
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" style="user-select: auto;"><img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" style="max-width: 100%; user-select: auto;"></a>
@@ -16,12 +52,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" style="user-select: auto;"><img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" style="max-width: 100%; user-select: auto;"></a>
 </div> 
 
-
+<!--___________________________________________________________________ABOUT ME_______________________________________________________________________________-->
 <h2 align="center"> About Me </h2>
 <p align="center">
-  <strong>
   'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'
-  </strong>
 </p>
 <p align="center">
   The perfectionist geek living in Metaverse has a deep obsession with cyberpunk things, web3 & beautiful user interface designs. You will find me Fluttering in the low-level deeper caves of Dart, hunting treasures of advanced programming concepts, because I love to code and hunt bugs.
@@ -29,9 +63,36 @@
 <p align="center">
 Apart from that, I'm a helping hand for the learners; helping people to learn and grow. I believe in quality education & am eager to promote it. I have been helping others by creating content & writing articles on various platforms.
 </p>
+<!--___________________________________________________________________________________________________________________________________________________________-->
+<div align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a></div>
+  
+<!--___________________________________________________________________________________________________________________________________________________________-->
+<h2 dir="auto"><a id="user-content-weekly-development-stats-" class="anchor" href="#weekly-development-stats-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>WEEKLY DEVELOPMENT STATS </h2>  
+  
+<!--___________________________________________________________________________________________________________________________________________________________-->
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre lang="text" class="notranslate"><code>Dart               5 hrs 30 mins       ███████░░░     70.75%
+Learning           3 hrs 15 mins       ██████░░░░     55.18%
+             
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="Dart               5 hrs 30 mins       ███████░░░     70.75%
+Learning           3 hrs 15 mins       ██████░░░░     55.18%
+" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<!--___________________________________________________________________________________________________________________________________________________________--> 
+  
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png"><img src="https://user-images.githubusercontent.com/60597290/152518980-fa55fbc8-81fe-4bba-bf52-21320455e217.png" alt="footer" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png"><img height="50" src="https://user-images.githubusercontent.com/60597290/152519754-992acfbc-39df-489d-a01a-72ea86a08996.png" style="max-width: 100%;"></a></p>
 
+<!--___________________________________________________________________________________________________________________________________________________________--> 
 
-
+</div>
 <!--
 **mrumarrazzaq/mrumarrazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
