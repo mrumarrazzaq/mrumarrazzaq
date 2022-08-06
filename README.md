@@ -27,11 +27,11 @@
 <a href="#" rel="nofollow" style="user-select: auto;">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" style="max-width: 100%; user-select: auto;">
 </a>
-<a href="#" rel="nofollow" style="user-select: auto;">
+<a href="https://www.linkedin.com/in/umar-razzaq-66ab5a222/" target="_blank" rel="nofollow" style="user-select: auto;">
   <img height="60" alt="Umar Razzaq | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
 </a>
-  <a href="#" rel="nofollow" style="user-select: auto;">
-  <img height="60" alt="Umar Razzaq | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
+<a href="#" rel="nofollow">
+  <img height="60" alt="Umar Razzaq | Facebook" src="https://user-images.githubusercontent.com/60597290/173852508-c8fba934-8e29-45c1-940e-ce45af784d37.png" style="max-width: 100%;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
   <img height="60" alt="Umar Razzaqn | Instagram" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" style="max-width: 100%; user-select: auto;">
