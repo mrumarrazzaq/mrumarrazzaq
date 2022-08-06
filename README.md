@@ -49,10 +49,11 @@
 <!--___________________________________________________________________ABOUT ME_______________________________________________________________________________-->
 <div align="center">
 <h2 align="center"> About Me </h2>
- 
 
 
-  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/98159141/183238671-e705dfed-28b9-4631-8600-096c6bbd1178.png" style="user-select: auto;"><img width="115" height="115" src="https://user-images.githubusercontent.com/98159141/183238671-e705dfed-28b9-4631-8600-096c6bbd1178.png" style="max-width: 100%; user-select: auto;"></a>
+
+
+  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="user-select: auto;"><img width="150" height="150" src="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="max-width: 100%; user-select: auto;"></a>
 <p align="center">
   'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'
 </p>
