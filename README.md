@@ -15,19 +15,19 @@
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" style="max-width: 100%; user-select: auto;">
 </a>
 <a href="#" rel="nofollow" style="user-select: auto;">
-  <img height="60" alt="RashidWassan | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
+  <img height="60" alt="Umar Razzaq | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
-  <img height="60" alt="RashidWassan | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
+  <img height="60" alt="Umar Razzaq | LinkedIn" src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png" style="max-width: 100%; user-select: auto;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
-  <img height="60" alt="Rashid Wassan | Instagram" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" style="max-width: 100%; user-select: auto;">
+  <img height="60" alt="Umar Razzaqn | Instagram" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" style="max-width: 100%; user-select: auto;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" style="max-width: 100%; user-select: auto;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
-  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" style="max-width: 100%; user-select: auto;">
+  <img height="60" alt="Umar Razzaq | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" style="max-width: 100%; user-select: auto;">
 </a>
   <a href="#" rel="nofollow" style="user-select: auto;">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852494-7b3ce86a-497d-4998-810e-35180b7bdea2.png" style="max-width: 100%; user-select: auto;">
@@ -51,9 +51,7 @@
 <h2 align="center"> About Me </h2>
 
 
-
-
-  <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="user-select: auto;"><img width="150" height="150" src="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="max-width: 100%; user-select: auto;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="user-select: auto;"><img alt="Umar Razzaq | Picture" width="150" height="150" src="https://user-images.githubusercontent.com/98159141/183239121-5c938266-9e6e-4aad-98c1-105f0432a746.png" style="max-width: 100%; user-select: auto;"></a>
 <p align="center">
   'A young entrepreneur, passionate Software Engineer, & tech evangelist fascinated by new tech-trends. Playing the part in bringing digital revolution and tech-awareness in the world.'
 </p>
