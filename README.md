@@ -35,13 +35,6 @@
   
 </div>
 <!--___________________________________________________________________________________________________________________________________________________________--> 
-  
-  
-  
-  
-  
-  
-
 <div align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" style="user-select: auto;"><img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" style="max-width: 100%; user-select: auto;"></a>
 </div>
